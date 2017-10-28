@@ -20,7 +20,9 @@ class ViewController: UIViewController {
         
     }
     // Above this is the xcode bullshit ignore
-    //This is the link needed to acess the google form.
+
+    //Search Page
+    
     
     
 }
