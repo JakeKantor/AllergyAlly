@@ -29,7 +29,7 @@
                     <connections>
                         <segue destination="Vh0-AP-4eQ" kind="relationship" relationship="viewControllers" id="owv-sM-4yJ"/>
                         <segue destination="tCu-dH-1GA" kind="relationship" relationship="viewControllers" id="uPA-lt-XYQ"/>
-                        <segue destination="YFe-Wz-t9Y" kind="relationship" relationship="viewControllers" id="vPX-9a-PQ3"/>
+                        <segue destination="YFe-Wz-t9Y" kind="relationship" relationship="viewControllers" id="kBM-Rf-Qs8"/>
                     </connections>
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="23l-7E-Dlx" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -79,6 +79,17 @@
                     <view key="view" contentMode="scaleToFill" id="QaW-vl-151">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <wkWebView contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="mEm-7k-Lq1">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="618"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.36078431370000003" green="0.38823529410000002" blue="0.4039215686" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <wkWebViewConfiguration key="configuration">
+                                    <audiovisualMediaTypes key="mediaTypesRequiringUserActionForPlayback" none="YES"/>
+                                    <wkPreferences key="preferences"/>
+                                </wkWebViewConfiguration>
+                            </wkWebView>
+                        </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <viewLayoutGuide key="safeArea" id="bf3-0B-XAm"/>
                     </view>
@@ -86,7 +97,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="a1Y-ir-4ie" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-402" y="1038"/>
+            <point key="canvasLocation" x="-599" y="1112"/>
         </scene>
         <!--Home-->
         <scene sceneID="SEW-4T-AWN">
