@@ -12,14 +12,6 @@
 		2B6C421E1FA2659A00858A62 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2B6C421C1FA2659A00858A62 /* Main.storyboard */; };
 		2B6C42201FA2659A00858A62 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2B6C421F1FA2659A00858A62 /* Assets.xcassets */; };
 		2B6C42231FA2659A00858A62 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2B6C42211FA2659A00858A62 /* LaunchScreen.storyboard */; };
-		2B6C42391FA265E400858A62 /* salad-2068220__340.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2B6C42381FA265E400858A62 /* salad-2068220__340.jpg */; };
-		2B6C423A1FA265E400858A62 /* salad-2068220__340.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2B6C42381FA265E400858A62 /* salad-2068220__340.jpg */; };
-		2B95C9BC1FA38EFE00700F22 /* asdf.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2B95C9BB1FA38EFE00700F22 /* asdf.jpeg */; };
-		2B95C9BD1FA38EFE00700F22 /* asdf.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2B95C9BB1FA38EFE00700F22 /* asdf.jpeg */; };
-		2B95C9BF1FA38F6100700F22 /* f8303ac2a4bb68a8436a3570585005d2--wallpaper-cellphone-wallpaper-iphone-fruit.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2B95C9BE1FA38F6100700F22 /* f8303ac2a4bb68a8436a3570585005d2--wallpaper-cellphone-wallpaper-iphone-fruit.jpg */; };
-		2B95C9C01FA38F6100700F22 /* f8303ac2a4bb68a8436a3570585005d2--wallpaper-cellphone-wallpaper-iphone-fruit.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2B95C9BE1FA38F6100700F22 /* f8303ac2a4bb68a8436a3570585005d2--wallpaper-cellphone-wallpaper-iphone-fruit.jpg */; };
-		2B95C9C21FA392C400700F22 /* Screen Shot 2017-10-27 at 12.13.41 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 2B95C9C11FA392C300700F22 /* Screen Shot 2017-10-27 at 12.13.41 PM.png */; };
-		2B95C9C31FA392C400700F22 /* Screen Shot 2017-10-27 at 12.13.41 PM.png in Resources */ = {isa = PBXBuildFile; fileRef = 2B95C9C11FA392C300700F22 /* Screen Shot 2017-10-27 at 12.13.41 PM.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -33,6 +25,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2B248D851FA6955200AD8A30 /* salad-2068220__340.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "salad-2068220__340.jpg"; sourceTree = "<group>"; };
+		2B248D861FA6955200AD8A30 /* f8303ac2a4bb68a8436a3570585005d2--wallpaper-cellphone-wallpaper-iphone-fruit.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "f8303ac2a4bb68a8436a3570585005d2--wallpaper-cellphone-wallpaper-iphone-fruit.jpg"; sourceTree = "<group>"; };
+		2B248D871FA6955300AD8A30 /* Screen Shot 2017-10-27 at 12.13.41 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2017-10-27 at 12.13.41 PM.png"; sourceTree = "<group>"; };
+		2B248D881FA6955300AD8A30 /* asdf.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = asdf.jpeg; sourceTree = "<group>"; };
 		2B6C42151FA2659A00858A62 /* the allergy allie.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "the allergy allie.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2B6C42181FA2659A00858A62 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2B6C421A1FA2659A00858A62 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -41,10 +37,6 @@
 		2B6C42221FA2659A00858A62 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2B6C42241FA2659A00858A62 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2B6C42291FA2659A00858A62 /* the allergy allieUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "the allergy allieUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2B6C42381FA265E400858A62 /* salad-2068220__340.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "salad-2068220__340.jpg"; path = "../Stuff for allergy allie/salad-2068220__340.jpg"; sourceTree = "<group>"; };
-		2B95C9BB1FA38EFE00700F22 /* asdf.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = asdf.jpeg; path = ../../../asdf.jpeg; sourceTree = "<group>"; };
-		2B95C9BE1FA38F6100700F22 /* f8303ac2a4bb68a8436a3570585005d2--wallpaper-cellphone-wallpaper-iphone-fruit.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "f8303ac2a4bb68a8436a3570585005d2--wallpaper-cellphone-wallpaper-iphone-fruit.jpg"; path = "../Stuff for allergy allie/f8303ac2a4bb68a8436a3570585005d2--wallpaper-cellphone-wallpaper-iphone-fruit.jpg"; sourceTree = "<group>"; };
-		2B95C9C11FA392C300700F22 /* Screen Shot 2017-10-27 at 12.13.41 PM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Screen Shot 2017-10-27 at 12.13.41 PM.png"; path = "../../../Screen Shot 2017-10-27 at 12.13.41 PM.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,10 +62,6 @@
 			children = (
 				2B6C42171FA2659A00858A62 /* the allergy allie */,
 				2B6C42161FA2659A00858A62 /* Products */,
-				2B6C42381FA265E400858A62 /* salad-2068220__340.jpg */,
-				2B95C9BB1FA38EFE00700F22 /* asdf.jpeg */,
-				2B95C9BE1FA38F6100700F22 /* f8303ac2a4bb68a8436a3570585005d2--wallpaper-cellphone-wallpaper-iphone-fruit.jpg */,
-				2B95C9C11FA392C300700F22 /* Screen Shot 2017-10-27 at 12.13.41 PM.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -95,6 +83,10 @@
 				2B6C421F1FA2659A00858A62 /* Assets.xcassets */,
 				2B6C42211FA2659A00858A62 /* LaunchScreen.storyboard */,
 				2B6C42241FA2659A00858A62 /* Info.plist */,
+				2B248D851FA6955200AD8A30 /* salad-2068220__340.jpg */,
+				2B248D881FA6955300AD8A30 /* asdf.jpeg */,
+				2B248D861FA6955200AD8A30 /* f8303ac2a4bb68a8436a3570585005d2--wallpaper-cellphone-wallpaper-iphone-fruit.jpg */,
+				2B248D871FA6955300AD8A30 /* Screen Shot 2017-10-27 at 12.13.41 PM.png */,
 			);
 			path = "the allergy allie";
 			sourceTree = "<group>";
@@ -182,10 +174,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2B6C42391FA265E400858A62 /* salad-2068220__340.jpg in Resources */,
-				2B95C9BF1FA38F6100700F22 /* f8303ac2a4bb68a8436a3570585005d2--wallpaper-cellphone-wallpaper-iphone-fruit.jpg in Resources */,
-				2B95C9C21FA392C400700F22 /* Screen Shot 2017-10-27 at 12.13.41 PM.png in Resources */,
-				2B95C9BC1FA38EFE00700F22 /* asdf.jpeg in Resources */,
 				2B6C42231FA2659A00858A62 /* LaunchScreen.storyboard in Resources */,
 				2B6C42201FA2659A00858A62 /* Assets.xcassets in Resources */,
 				2B6C421E1FA2659A00858A62 /* Main.storyboard in Resources */,
@@ -196,10 +184,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2B95C9C31FA392C400700F22 /* Screen Shot 2017-10-27 at 12.13.41 PM.png in Resources */,
-				2B95C9C01FA38F6100700F22 /* f8303ac2a4bb68a8436a3570585005d2--wallpaper-cellphone-wallpaper-iphone-fruit.jpg in Resources */,
-				2B6C423A1FA265E400858A62 /* salad-2068220__340.jpg in Resources */,
-				2B95C9BD1FA38EFE00700F22 /* asdf.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
